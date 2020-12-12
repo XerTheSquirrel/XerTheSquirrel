@@ -6,5 +6,6 @@ Welcome to my GitHub account! I am the developer of [SquirrelJME](https://github
 
 My pronouns are _she/her_ or _they/her_!
 
+ * Portfolio: https://shadowtail.dev/
  * Twitter: https://twitter.com/XerShadowTail
  * LinkedIn: https://www.linkedin.com/in/xerthesquirrel/
