@@ -6,6 +6,6 @@ Welcome to my GitHub account! I am the developer of [SquirrelJME](https://github
 
 My pronouns are _they/them_!
 
- * Portfolio: https://shadowtail.dev/
- * Twitter: https://twitter.com/XerShadowTail
- * LinkedIn: https://www.linkedin.com/in/xerthesquirrel/
+ * BlueSky: <https://bsky.app/profile/xershadowtail.bsky.social>
+ * Mastodon: <https://chitter.xyz/@XerShadowTail>
+ * LinkedIn: <https://www.linkedin.com/in/xerthesquirrel>
